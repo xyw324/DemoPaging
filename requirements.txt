@@ -11,7 +11,7 @@ constantly==15.1.0
 cryptography==2.2.2
 cssselect==1.0.3
 Django==1.11.11
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 hyperlink==18.0.0
 idna==2.7
 incremental==17.5.0

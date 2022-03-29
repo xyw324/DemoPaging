@@ -19,7 +19,7 @@ Jinja2==2.10
 lxml==4.2.5
 Markdown==3.0.1
 MarkupSafe==1.0
-paramiko==2.4.1
+paramiko==2.10.1
 parsel==1.5.1
 Pillow==5.2.0
 pyasn1==0.4.3
